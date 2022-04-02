@@ -64,4 +64,18 @@ jobs:
           base: isocalendar
           template: classic
           plugin_isocalendar: yes
-          plugin_isocalendar_durration: full-year
+          plugin_isocalendar_duration: full-year
+
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: dbradf
+          base: languages
+          template: classic
+          plugin_languages: yes
