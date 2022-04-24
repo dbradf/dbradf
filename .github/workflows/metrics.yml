@@ -79,4 +79,4 @@ jobs:
           base: languages
           template: classic
           plugin_languages: yes
-          plugin_languages_ignored: Jupyter Notebook, Vim script, HTML
+          plugin_languages_ignored: Jupyter Notebook, Vim script, HTML, SCSS, CSS
