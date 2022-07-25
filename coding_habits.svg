@@ -148,18 +148,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M101.439,154.712A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.42660890383628797"/>
+                                        <path d="M156.285,137.389A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.3365713257780176"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M93.402,153.566A75,75,0,0,0,101.7,154.735L108,80Z" class="ct-slice-pie" ct:value="0.01430770107735279"/>
+                                        <path d="M151.428,141.147A75,75,0,0,0,156.485,137.221L108,80Z" class="ct-slice-pie" ct:value="0.011288001439107753"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,93.659,153.616L108,80Z" class="ct-slice-pie" ct:value="0.3891580687453685"/>
+                                        <path d="M108,5A75,75,0,1,0,151.641,140.995L108,80Z" class="ct-slice-pie" ct:value="0.5180787911494873"/>
                                     </g>
                                     <g>
-                                        <text dx="145.4640431512039" dy="81.64178889164631" text-anchor="middle" class="ct-label">Rust</text>
-                                        <text dx="102.7025079083558" dy="117.12393537246513" text-anchor="middle" class="ct-label">RenderScript</text>
-                                        <text dx="70.67973118916845" dy="76.33291179717841" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="143.22997884995576" dy="67.15093037486099" text-anchor="middle" class="ct-label">Rust</text>
+                                        <text dx="130.94749674646704" dy="109.65910303887972" text-anchor="middle" class="ct-label">RenderScript</text>
+                                        <text dx="72.27350516836276" dy="91.39594520191271" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
