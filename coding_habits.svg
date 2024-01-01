@@ -276,44 +276,44 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#89e051" d="M0.5,-79.998A80,80,0,0,1,1.064,-79.993L0,0Z">
+                                    <path fill="#89e051" d="M0.5,-79.998A80,80,0,0,1,1.061,-79.993L0,0Z">
                                         <title>Shell
 0.10</title>
                                     </path>
-                                    <path fill="#3178c6" d="M2.064,-79.973A80,80,0,1,1,-71.17,-36.536L0,0Z">
+                                    <path fill="#3178c6" d="M2.061,-79.973A80,80,0,1,1,-71.688,-35.507L0,0Z">
                                         <title>TypeScript
-73.19</title>
+73.40</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-70.707,-37.423A80,80,0,0,1,-70.655,-37.522L0,0Z">
+                                    <path fill="#c6538c" d="M-71.239,-36.401A80,80,0,0,1,-71.188,-36.501L0,0Z">
                                         <title>SCSS
 0.02</title>
                                     </path>
-                                    <path fill="#3572A5" d="M-70.18,-38.403L0,0Z">
+                                    <path fill="#3572A5" d="M-70.726,-37.388L0,0Z">
                                         <title>Python
 0.00</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-69.695,-39.277A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#3178c6" d="M-70.253,-38.269A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>TSX
-14.91</title>
+15.20</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.39102041695549417,-39.99808874225772)">
+                                    <text transform="translate(0.39022566988524915,-39.99809650379081)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
                                     </text>
-                                    <text transform="translate(20.40590034996938,34.40347701769575)">
+                                    <text transform="translate(20.65376438721909,34.2552480159937)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">73.19</tspan>
+                                        <tspan x="0" y="1.1em">73.40</tspan>
                                     </text>
-                                    <text transform="translate(-35.34049975495931,-18.73630371950992)">
+                                    <text transform="translate(-35.60671161298967,-18.22531448588436)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
-                                    <text transform="translate(-35.09001034402517,-19.201332611467535)">
+                                    <text transform="translate(-35.363020764664185,-18.693762660254617)">
                                         <tspan x="0" y="0em" font-weight="bold">Python</tspan>
                                     </text>
-                                    <text transform="translate(-20.287794989353788,-34.47325593079295)">
+                                    <text transform="translate(-20.535620278068944,-34.326204273047196)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">14.91</tspan>
+                                        <tspan x="0" y="1.1em">15.20</tspan>
                                     </text>
                                 </g>
                             </svg>
