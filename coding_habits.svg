@@ -276,29 +276,29 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-31.289,-73.628L0,0Z">
+                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-28.259,-74.843L0,0Z">
                                         <title>TypeScript
-93.06</title>
+93.82</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-30.366,-74.013A80,80,0,0,1,-9.357,-79.451L0,0Z">
+                                    <path fill="#3178c6" d="M-27.321,-75.19A80,80,0,0,1,-8.496,-79.548L0,0Z">
                                         <title>TSX
-4.31</title>
+3.84</title>
                                     </path>
-                                    <path fill="#c6538c" d="M-8.364,-79.562A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#c6538c" d="M-7.501,-79.648A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>SCSS
-1.56</title>
+1.39</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(7.860253447971491,39.220102189230104)">
+                                    <text transform="translate(7.0584901305673515,39.37229631449864)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">93.06</tspan>
+                                        <tspan x="0" y="1.1em">93.82</tspan>
                                     </text>
-                                    <text transform="translate(-10.023487697645322,-38.72376136657121)">
+                                    <text transform="translate(-9.020341036369526,-38.969647773460665)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
-                                        <tspan x="0" y="1.1em">4.31</tspan>
+                                        <tspan x="0" y="1.1em">3.84</tspan>
                                     </text>
-                                    <text transform="translate(-2.2185908248530954,-39.93842579211)">
+                                    <text transform="translate(-2.002116648527869,-39.94986268969754)">
                                         <tspan x="0" y="0em" font-weight="bold">SCSS</tspan>
                                     </text>
                                 </g>
