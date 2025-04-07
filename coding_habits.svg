@@ -276,13 +276,13 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#fc8d59" d="M0.5,-79.998A80,80,0,0,1,16.567,-78.266L0,0Z">
+                                    <path fill="#fc8d59" d="M0.5,-79.998A80,80,0,0,1,16.564,-78.266L0,0Z">
                                         <title>RenderScript
-3.05</title>
+3.06</title>
                                     </path>
-                                    <path fill="#3178c6" d="M17.544,-78.053A80,80,0,1,1,-1.712,-79.982L0,0Z">
+                                    <path fill="#3178c6" d="M17.541,-78.053A80,80,0,1,1,-1.711,-79.982L0,0Z">
                                         <title>TypeScript
-91.05</title>
+91.37</title>
                                     </path>
                                     <path fill="#f1e05a" d="M-0.712,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>JavaScript
@@ -290,14 +290,14 @@
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(4.288763596006024,-39.76941672714818)">
+                                    <text transform="translate(4.287854493743538,-39.76951475490345)">
                                         <tspan x="0" y="0em" font-weight="bold">RenderScript</tspan>
                                     </text>
-                                    <text transform="translate(-3.98731475744696,39.80077035718085)">
+                                    <text transform="translate(-3.9865894181189776,39.80084301634002)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">91.05</tspan>
+                                        <tspan x="0" y="1.1em">91.37</tspan>
                                     </text>
-                                    <text transform="translate(-0.3030728197414274,-39.99885181934519)">
+                                    <text transform="translate(-0.30288742241923466,-39.998853223678054)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
                                     </text>
                                 </g>
