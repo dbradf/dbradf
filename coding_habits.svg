@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 18.3 characters per line of code written</li>
+                        <li>Has approximately 24.0 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -276,36 +276,37 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#3178c6" d="M0.5,-79.998A80,80,0,1,1,-8.377,-79.56L0,0Z">
+                                    <path fill="#d7191c" d="M0.5,-79.998A80,80,0,0,1,39.87,-69.357L0,0Z">
+                                        <title>RenderScript
+6.52</title>
+                                    </path>
+                                    <path fill="#3178c6" d="M40.734,-68.853A80,80,0,1,1,-4.522,-79.872L0,0Z">
                                         <title>TypeScript
-76.70</title>
+72.00</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-7.382,-79.659A80,80,0,0,1,-6.099,-79.767L0,0Z">
+                                    <path fill="#3178c6" d="M-3.523,-79.922A80,80,0,0,1,-2.322,-79.966L0,0Z">
                                         <title>TSX
-0.20</title>
+0.19</title>
                                     </path>
-                                    <path fill="#89e051" d="M-5.102,-79.837A80,80,0,0,1,-4.202,-79.89L0,0Z">
+                                    <path fill="#89e051" d="M-1.322,-79.989A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>Shell
-0.14</title>
-                                    </path>
-                                    <path fill="#000080" d="M-3.203,-79.936A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>Lua
-0.42</title>
+0.13</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(1.9723397904413384,39.95134385413139)">
-                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">76.70</tspan>
+                                    <text transform="translate(10.437357286036042,-38.614266442386686)">
+                                        <tspan x="0" y="0em" font-weight="bold">RenderScript</tspan>
+                                        <tspan x="0" y="1.1em">6.52</tspan>
                                     </text>
-                                    <text transform="translate(-3.370399918848623,-39.85775212411038)">
+                                    <text transform="translate(-9.463018163234882,38.86452479115481)">
+                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
+                                        <tspan x="0" y="1.1em">72.00</tspan>
+                                    </text>
+                                    <text transform="translate(-1.4612256408811781,-39.97330133509655)">
                                         <tspan x="0" y="0em" font-weight="bold">TSX</tspan>
                                     </text>
-                                    <text transform="translate(-2.3258940295449935,-39.93232045553234)">
+                                    <text transform="translate(-0.45554928159028957,-39.99740585153045)">
                                         <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                    </text>
-                                    <text transform="translate(-0.9258630403685313,-39.98928328478118)">
-                                        <tspan x="0" y="0em" font-weight="bold">Lua</tspan>
                                     </text>
                                 </g>
                             </svg>
